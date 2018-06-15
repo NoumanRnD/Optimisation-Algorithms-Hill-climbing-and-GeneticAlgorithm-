@@ -17,10 +17,10 @@ time for all requests.” <br/><br/>
 
 # Please read the problem statement.pdf file for further detail
  
-install all dependent libraries of python 
-1- install pip3
-2- pip3 install numpy
-3- pip3 install scipy
-4- pip3 install matpolit
-5- pip3 install os
-similar way all libraries must be configured too with correct python version
+install all dependent libraries of python <br/>
+1- install pip3<br/>
+2- pip3 install numpy<br/>
+3- pip3 install scipy<br/>
+4- pip3 install matpolit<br/>
+5- pip3 install os<br/>
+similar way all libraries must be configured too with correct python version<br/>
